@@ -334,8 +334,8 @@ section {
   align-items: center;
 }
 .feature__icon img {
-  width: 70%;
-  height: 70%;
+  width: 100%;
+  height: auto;
   border-radius: 5%;
 }
 .feature__title {
